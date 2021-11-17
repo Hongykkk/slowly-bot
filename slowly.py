@@ -186,7 +186,8 @@ async def into(ctx,raid,role):
     #     raidlist[raid][4] +=  " " + ctx.author.name
     else:
          await channel.send("명령어를 잘못 입력하였습니다")
-         return 
+         return
+    dbsave(list,list.c) 
     embed = discord.Embed(title="레이드 현황")
     embed.add_field(name=raid, value=list[raid]["파티"] ,inline=False)
     embed.add_field(name="딜러", value=list[raid]['딜러']+"d")
@@ -257,8 +258,9 @@ async def delraid(ctx,date1,date2,raid):
     #     count+=1
     # await channel.send(embed=embed)
 
+token= open('token','r').readline()
+client.run('token')
 
-client.run('ODkwNDc1NDkxNjE2Nzc2MjIy.YUwV7Q.ZdpLMG0gYSZohV-SFJnRPc9hS9w')
 
 
 
