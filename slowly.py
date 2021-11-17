@@ -1,3 +1,4 @@
+from os import write
 import discord
 from bs4 import BeautifulSoup
 import urllib.parse as parse
@@ -258,8 +259,9 @@ async def delraid(ctx,date1,date2,raid):
     #     count+=1
     # await channel.send(embed=embed)
 
-token= open('token','r').readline()
-client.run('token')
+token_ref = data.child('token')
+token= token_ref.get()
+client.run(token)
 
 
 
