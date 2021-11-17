@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "halogen-valve-307800",
+  "private_key_id": "cf91cf86f7728f998a68bcfccaaa17837e4938d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD7/OnXMJbYPxN5\nTloxpeMcXVtJCyMre54f/iVHGJH8xWscFsajLdCR/srlSWJtZ1C68VVT2nzs3ORS\nVJ9zdyZslZtSNRLNpqIxy43OW7ObZ0SEmA3SvZ3eorIW/DPGFS5O/YDBXr3rUrC5\n9C7QCOY9Hwg/JNOTqFlckHezo6Iit3mEaZILMrQQgeEqxSyBxS255oK0rzQb/ZQD\nsCCBkM0YKXyLnNZzSH4v3f5/0sireJQChg5nO6Bk5j+if7+fOZWvTGsP49l6LDvC\n5+h/ZmypxTVCbUuQQIa1SG9hY4pdhfNaNnEuJoDkNPEji7iuLT71SgOMYczYmIyE\nMxO31RqJAgMBAAECggEAA9y+Bs7XWQwqc78IMd+digdCSW3Sxa1Y4JuoHZ1aS3oJ\nKL6On9ypaDt0B6ymxg+B1MOzL5xXMtg15a8nXIE0hRCL92gZ2C4YKVQ54bJVH+om\nyjN8bsD6RPnQafrGnmAfvBU1noEhvxQe4lLETur8AG7T1Qfu+EHp0LnkI8w7xXVr\nra5TtibTO1BGAx+Wp3N+iJEO0YCjED+OosB6wGf4GtvOhdR3mQrJZTH5JCnamv6C\nrgKEcWEYgbnMVPWXL5KALo41T3gKHQ/HrHJl6J64cmFbfcjUxD+RLvKdQH9T6qf3\nf6QtqXpFBVe5FxF6aJ+QRr4UF/7E3d/5f1b1+eM1AQKBgQD/ARklJF0/9Kj5SoVc\nybXpgBcfdFjE78t/JYHQowFlzh4AMGo9+qHFh1zvj7J7LXDaqD4nhg0ZjuMMqUhm\npQcOsSC8VvgwrmyFr8ZFT3cUo0jOz4FoTivq9COckAsvnfejX0VrFVAoL/RY02LC\n27HprCfKZYBj8Yn3ahHoBv0TSQKBgQD8+MzSNhVzkFBZT9lqyXqw57lfSSQ2HWIm\noPydX7bnJFlfpoJiDsoI0GwTG7URg1pAjA3vUOzNuww7UWpH/PQGBdgf9Z0kwZT2\nn0hI1lI1uM49ouELH1XeRHHdnt0np4CCy7+h5mTPT0Swk85dpiT2qDsc+Ml9IHB6\nhGn6alSNQQKBgQDmnpGlG5wR6SygOBsgbXRNdoBy/AAEK3H4zWz3yVPMRHqxZRfQ\ncci4IdGU/npGGDSGK736dKuIP8drffVyjzEwwlR+wJC5RiXzSaKgsFtbmMiR8Oxx\n7rCdTqqeP08+gzig0dqwG5hgn+32H0akP5hJYl6iFuXkfV9vGMiU9S0PsQKBgQC5\nBE7pP90YlGfvqlLdo1Y0pIYThq8RVRRAJGYdw69GBnPHXUTm6uIg6C7jGtSnZmZP\n5x8Z9Rn8rd0YVUdiN0NSVFvpo/22sE5+wahgfT/LQsq0kbf+JoDq+yw8ZsBhDEUV\nZGdXxeXdKaCXdMLuA2HtdMUnP14+QceCE+5e0/3bAQKBgEF4XWxQ/CcXC8BW/4ay\noIFfY0/yx0oJETKjf+2+BqB3gaAOjfX3G3mC0z50Ch1pLl/Qgzp1LttwAM2gGMKz\nSIS90VeGv7dYfh5WydCb8U2HqrlWdFwflF4cN/R0oMKPPHqmBr/alQpdk6gaR00b\nuVm+f3ybwZJHFIEmwdHyQdgs\n-----END PRIVATE KEY-----\n",
+  "client_email": "hong-12@halogen-valve-307800.iam.gserviceaccount.com",
+  "client_id": "113019643934901312012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hong-12%40halogen-valve-307800.iam.gserviceaccount.com"
+}
